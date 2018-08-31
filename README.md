@@ -26,4 +26,4 @@ mvn clean verify -P integration-test
 ```sh
 mvn clean install
 ```   
-
+##### 3. Run both unit and integration tests
